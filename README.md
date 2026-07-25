@@ -9,17 +9,7 @@ I own the full loop on my tools: spotting the workflow problem, designing the so
 
 ## 🔧 What I'm building
 
-**[Revit Filter & Legend Automation](https://github.com/shubhamddhage/revit-filter-legend-automation)**
-pyRevit extension that batch-creates view filters with color overrides and auto-generates a matching legend — turning hours of manual presentation-drawing setup into one click.
-
-**Batch Structure Type Creator**
-Revit plugin automating batch creation of beam, column, and footing types directly from schedule data, cutting repetitive type-creation work across large structural models.
-
-**Claude-to-Revit MCP Bridge**
-A C# add-in + Node.js server exposing Revit model data and actions (elements, views, schedules, tagging) through the Model Context Protocol, enabling AI-assisted BIM workflows.
-
-**IFC Colour Plugin**
-Keeps IFC export colors independent from native model colors, solving a common multi-discipline coordination headache.
+**Building toward a BIM industry where repetitive production work automates itself — so engineers spend time on decisions, not data entry.
 
 ---
 
